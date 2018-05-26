@@ -1,0 +1,12 @@
+{
+  "presets": [
+    ["env", {
+      "targets": {
+        "brawsers": [
+          "last 5 versions",
+          "ie >= 9"
+        ]
+      }
+    }]
+  ]
+}
